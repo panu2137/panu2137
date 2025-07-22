@@ -107,6 +107,3 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/panu2137/panu2137/output/snake.svg" alt="Snake animation" />
-
-###
